@@ -1,1 +1,10 @@
+# Python
 venv/
+__pycache__/
+*.pyc
+
+# Docker
+*.log
+
+# Git
+.git/
